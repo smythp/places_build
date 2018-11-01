@@ -1,0 +1,164 @@
+#+TITLE: Oh, the Places We'll Build
+:notes:
+#+OPTIONS: title:nil reveal_center:t reveal_progress:t reveal_history:t reveal_control:t
+#+OPTIONS: reveal_mathjax:t reveal_rolling_links:t reveal_keyboard:t reveal_overview:t num:nil
+#+OPTIONS: reveal_width:1200 reveal_height:800
+#+OPTIONS: toc:nil
+#+REVEAL_MARGIN: 0.2
+#+REVEAL_MIN_SCALE: 0.5
+#+REVEAL_MAX_SCALE: 2.5
+#+REVEAL_THEME: simple
+#+REVEAL_HLEVEL: 1
+#+REVEAL_HTML: <style>.reveal section img { background:none; border:none; box-shadow:none; }
+#+REVEAL_HTML: li {text-align:center;top: 3px;list-style-type: none;}</style>
+:end:
+
+
+* Interdisciplinary
+
+- Peak interdisciplinary?
+- Utopian jet fuel
+- Better together
+
+* Unhuman
+
+- Erewhon
+- Created, but not controlled
+- Doomsday umbrella
+
+** 
+| Name                  | Concept                  |
+|-----------------------+--------------------------|
+| Charles Stross        | Economics 2.0            |
+| Sherry Turkle         | Alone Together           |
+| Istvan Csicsery-Ronay | Technoscience            |
+| Alan Ginsberg         | Moloch                   |
+| Hardt and Negri       | Empire                   |
+| Benjamin Bratton      | The Stack                |
+| Herbert Marcuse       | One-dimensional society  |
+| Neil Postman          | Technopoly               |
+| Erin Glass            | invisible discipline     |
+| Safiya Noble          | Algorithms of Oppression |
+
+* Two Futures
+
+#+REVEAL_HTML: <div style="width:50%">
+#+REVEAL_HTML: <br>
+#+REVEAL_HTML: <p>"Rocket ships, skyscrapers into the stratosphere, an underground mole world miles deep."</p>
+#+REVEAL_HTML: </div>
+#+REVEAL_HTML: <hr>
+#+REVEAL_HTML: <div style="margin-left:50%;">
+#+REVEAL_HTML: 
+#+REVEAL_HTML: <p>"Arm in arm they strolled toward the meetinghouse, a building long and low like a loaf of bread."</p>
+#+REVEAL_HTML: </div>
+
+- 
+
+* Haccessibility
+
+- Technē vs Technology™
+- Personal infrastructure
+- Autonomy with people
+
+** 
+#+ATTR_HTML: :width 100%
+[[./curb_cut_painting.png]]
+
+
+
+* Correspondences
+
+** 
+#+HTML: <div style="text-align:left;align:center;width:80%;">
+"Study of infrastructure begins to approach the study of culture in furthering comprehension of modern social contexts"
+#+HTML: </div>
+#+HTML: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;—Alan Liu
+
+** 
+
+#+HTML: <div style="text-align:left;align:center;width:80%;">
+And no discussion. Just ‘the door dilated’. I read across it, and was two lines down before I realised what the image had been, what the words had called forth. A dilating door. It didn’t open, it irized! Dear God, now I knew I was in a future world.
+#+HTML: </div>
+#+HTML: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;—Samuel R. Delany
+
+* Moving Forward
+- Critical Infrastructure Studies: Draw on Utopian Studies, we've been working on it
+#+HTML: <hr>
+- Utopian Studies: Dystopian Intentional Communities
+#+HTML: <hr>
+- All of us: Take responsibility
+* Contact
+- Email: patricksmyth01@gmail.com
+- Twitter: @psmyth01
+- GitHub: smythp
+
+
+
+# * Vertical Infrastructure
+# ** The Stack
+# ** You can't communicate complexity, only an awareness of it.
+# ** Bummer Platform
+# Behaviors of Users Modified and Made into Empires for Rent.
+
+# there's something ahumanistic about structures like this, it's not readable or tractable
+
+# * Flat Infrastructure
+
+# we need a new technology
+
+# curb cuts at berkeley
+
+# techne?
+
+
+# * Architecture Naive
+
+# * Naive Hermaneutics
+
+
+
+# * flow
+
+# In woman on the edge of time, when connie, the protagonist, travels to the future, she's pretty disappointed
+
+# It's basically just a road, a village, some chickens. She's like, this is like the crappy village my mother came from. This is the future?
+
+# Connie's been trained to think of certain things as futuristic: "Rocket ships, skyscrapers into the stratosphere, an underground mole world miles deep."
+
+# We've basically been trained the same way. When we think of the word "technology," what do we think of? Bet you all thought "iPhone"
+
+# Does anyone here have a favorite recipe? I make really good guacamole. Isn't that also technology?
+
+# Basically, the word technology is kind of a lost cause. It's a buzzword. I've been using this word techne, which means something in the same space but different. for example, saying "moral technology" sounds ridiculous. but you can certainly have a moral or spiritual techne.
+
+# basically, there's a feeling that the technology we have control over, the good technology, is not technology. the technology that controls us is Real Technology.
+
+# So a lot of people have thought about this two futures problem and come up with different names for the bad future. There's always a feeling that we're only seeing parts of it.
+
+# "You can't communicate complexity, only an awareness of it."
+
+# that's sort of what we're talking about...complexity. 
+
+# with that said, people have tried, there's a long list of bad futures that people have come up with.
+
+# within DH, there's this movement toward trying to understand and diagnose these monolithic systems under rubrics like platform studies, critical code studies, and critical infrastructure studies
+
+# so let me make an argument that draws on both utopian studies and critical infrastructure studies. i'm trying to show that utopian studies is concerned with infrastructure, and infrastructure studies is fundamentally utopian.
+
+# examples of architecture naive
+
+# architecture naive is utopian because it allows for a novum, an estrangement that allows us to look back on what we've built with fresh eyes
+
+# what about academia naive? so there's this whole system of people out there who do what we would think of as humanities work outside of the humanities
+
+# two example of lay hermaneutics: tv tropes and the lore movement
+
+
+
+
+
+# In Mattapoisett, 
+
+# in the first, 
+
+
